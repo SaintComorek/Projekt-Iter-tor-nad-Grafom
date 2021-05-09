@@ -1,3 +1,3 @@
-# Projekt-Iter-tor-nad-Grafom
+# Projekt-Iterator nad Grafom
 # Pavol Comorek
 # COM0005
